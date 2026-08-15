@@ -3,6 +3,7 @@
 
 ## Tools
 
+[IdeaHunter](https://ideahunter.today) AI startup idea research and validation for solo founders. Free tier.
 [VoiceForms](https://voiceforms.anvevoice.app) Voice forms startup. $0 budget built. Free tier. PLG-ready.
 
 ## Contributing
