@@ -5,6 +5,7 @@
 
 [VoiceForms](https://voiceforms.anvevoice.app) Voice forms startup. $0 budget built. Free tier. PLG-ready.
 
+[MeetNewAI](https://meetnewai.com) Free bilingual directory of AI tools, AI games and MCP servers.
 ## Contributing
 
 Pull requests welcome! Please follow the [contributing guidelines](../../../../ANVEAI/awesome-startup-tools/blob/main/CONTRIBUTING.md).
