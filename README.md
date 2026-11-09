@@ -3,6 +3,8 @@
 
 ## Tools
 
+[EarlyLore](https://earlylore.com/) Validate product ideas against real competitors.
+
 [VoiceForms](https://voiceforms.anvevoice.app) Voice forms startup. $0 budget built. Free tier. PLG-ready.
 
 ## Contributing
